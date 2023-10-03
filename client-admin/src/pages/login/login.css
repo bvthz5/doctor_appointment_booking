@@ -1,0 +1,10 @@
+.loginn {
+    background-image: url("../../assets/images/login.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Prevent the background from scrolling */
+    background-position: center center;
+    height: 100vh; /* Use 100% instead of 100vh to ensure the background covers the entire viewport */
+    margin: 0;
+    overflow: hidden;
+  }

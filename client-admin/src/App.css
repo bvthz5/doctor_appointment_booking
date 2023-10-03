@@ -1,0 +1,78 @@
+.validationError {
+    height: 10px;
+    color: red;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.validationErrorFile {
+  height: 10px;
+  color: red;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.serverError {
+    height: auto;
+    color: red;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.searchbox {
+  border-radius: 10px;
+  transition: 0.25s;
+  align-items: right;
+  justify-content: baseline;
+  text-align: center;
+  border-color: #000000;
+  color: #000000;
+  width: 200px;
+  font-size: 13px;
+  font-weight: 3px;
+  padding: 10px;
+  margin-right: 1rem;
+  margin-left: 20px;
+}
+
+.searchbox2 {
+  border-radius: 10px;
+  transition: 0.25s;
+  align-items: right;
+  justify-content: baseline;
+  text-align: center;
+  border-color: #000000;
+  color: #000000;
+  width: 200px;
+  font-size: 13px;
+  font-weight: 3px;
+  padding: 10px;
+  margin-right: 1rem;
+  margin-left: 35px;
+}
+
+/* Set the width and height of the scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 2px;
+}
+
+/* Set the background color of the scrollbar track */
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+/* Set the color and rounded corners of the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #888888cc;
+  border-radius: 5px;
+  width: 2px;
+  height: 2px;
+}
+
+/* Set the color and rounded corners of the scrollbar thumb on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}

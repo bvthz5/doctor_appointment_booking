@@ -1,0 +1,20 @@
+.addcategorybutton {
+    border: 0;
+    display: inline-block;
+    color: #ffffff;
+    background-color: rgb(75, 68, 83);
+    border-radius: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 30px;
+    width: 76px;
+    margin-bottom: 5 px;
+    cursor: pointer;
+    /* padding-left: 2px; */
+    padding: 9px;
+}
+
+.inline-icon {
+    vertical-align: -20%;
+    font-size: 18px !important;
+}

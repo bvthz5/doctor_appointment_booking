@@ -1,0 +1,23 @@
+
+:root{
+  --text-font: 'PT Serif', Serif;
+}
+
+h2{
+  color: #00257F;
+  text-transform: capitalize;
+  font-family: 'Josefin Slab', serif;
+
+}
+
+
+.card {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 0px;
+    padding-left: 20px;
+    height : 750px;
+    overflow:  scroll;
+}
